@@ -11,5 +11,11 @@ namespace banking
         public int Id { get; set; }
 
         public string name { get; set; }
+        
+        void getdata()
+        {
+            Console.WriteLine("Enter the data");
+        }
+       
     }
 }
