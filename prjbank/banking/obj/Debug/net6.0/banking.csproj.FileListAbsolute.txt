@@ -1,0 +1,15 @@
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\banking.exe
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\banking.deps.json
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\banking.runtimeconfig.json
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\banking.dll
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\ref\banking.dll
+E:\notesgit\prjbank\banking\bin\Debug\net6.0\banking.pdb
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.csproj.AssemblyReference.cache
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.GeneratedMSBuildEditorConfig.editorconfig
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.AssemblyInfoInputs.cache
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.AssemblyInfo.cs
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.csproj.CoreCompileInputs.cache
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.dll
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\ref\banking.dll
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.pdb
+E:\notesgit\prjbank\banking\obj\Debug\net6.0\banking.genruntimeconfig.cache

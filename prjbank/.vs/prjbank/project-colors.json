@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3eb97a3b-2b2d-40c1-b5dd-edd799fa8d9b": {
+      "ProjectGuid": "3eb97a3b-2b2d-40c1-b5dd-edd799fa8d9b",
+      "DisplayName": "banking",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
