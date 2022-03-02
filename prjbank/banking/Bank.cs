@@ -15,6 +15,7 @@ namespace banking
         void getdata()
         {
             Console.WriteLine("Enter the data");
+            Console.WriteLine("Enter the id");
         }
        
     }
